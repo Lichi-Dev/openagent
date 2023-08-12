@@ -1,0 +1,5 @@
+{{#user}}
+My name is Bonny Boben.
+Here are my skills : html, css ,js , react.js, node.js . 
+My email id is bonnybobencr7@gmail.com.
+ {{/user}}
